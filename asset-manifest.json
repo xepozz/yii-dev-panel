@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yii-dev-panel/static/css/main.073c9b0a.css",
+    "main.js": "/yii-dev-panel/static/js/main.82708bd6.js",
+    "static/js/496.aed9717d.chunk.js": "/yii-dev-panel/static/js/496.aed9717d.chunk.js",
+    "index.html": "/yii-dev-panel/index.html",
+    "main.073c9b0a.css.map": "/yii-dev-panel/static/css/main.073c9b0a.css.map",
+    "main.82708bd6.js.map": "/yii-dev-panel/static/js/main.82708bd6.js.map",
+    "496.aed9717d.chunk.js.map": "/yii-dev-panel/static/js/496.aed9717d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.82708bd6.js"
+  ]
+}
